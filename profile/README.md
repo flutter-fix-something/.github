@@ -1,6 +1,8 @@
-## Welcome to the Flutter Candies organization\n
-Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjoy it!\n
-## Organization Repositories\n
+## Welcome to the Flutter Candies organization
+
+Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjoy it!
+
+## Organization Repositories
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
 | [issue_template_yaml](https://github.com/flutter-fix-something/issue_template_yaml) | <no description> | 6 | 2023-02-17T07:14:09Z |
@@ -20,4 +22,4 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [TestAction](https://github.com/flutter-fix-something/TestAction) | <no description> | 0 | 2023-03-13T12:11:10Z |
 | [flutter_asset_generator](https://github.com/flutter-fix-something/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 0 | 2023-03-26T08:47:44Z |
 
-\n
+
