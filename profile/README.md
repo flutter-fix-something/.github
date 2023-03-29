@@ -3,6 +3,7 @@
 Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjoy it!
 
 ## Organization Repositories
+
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
 | [issue_template_yaml](https://github.com/flutter-fix-something/issue_template_yaml) | <no description> | 6 | 2023-02-17T07:14:09Z |
