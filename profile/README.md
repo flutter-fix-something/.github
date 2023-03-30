@@ -24,3 +24,4 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [flutter_asset_generator](https://github.com/flutter-fix-something/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 0 | 2023-03-26T08:47:44Z |
 
 
+Created on Thu Mar 30 00:17:22 UTC 2023
