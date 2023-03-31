@@ -24,9 +24,10 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [ActionTestRepo1](https://github.com/flutter-fix-something/ActionTestRepo1) | 用来测试Action的功能 | 0 | 2023-02-24T09:08:05Z |
 | [TestAction](https://github.com/flutter-fix-something/TestAction) | <no description> | 0 | 2023-03-13T12:11:10Z |
 | [flutter_asset_generator](https://github.com/flutter-fix-something/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 0 | 2023-03-26T08:47:44Z |
+| [PubErrorReport](https://github.com/flutter-fix-something/PubErrorReport) | <no description> | 0 | 2023-03-31T12:01:58Z |
 
 
 </details>
 
-Created on 2023-03-31T11:31:51+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-03-31T12:12:39+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
