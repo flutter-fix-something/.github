@@ -9,6 +9,7 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | Name | Description | Stars | Latest Commit |
 | ---- | --- | ----------- | ------------- |
 | [issue_template_yaml](https://github.com/flutter-fix-something/issue_template_yaml) | <no description> | 6 | 2023-02-17T07:14:09Z |
+| [flutter_asset_generator](https://github.com/flutter-fix-something/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 1 | 2023-04-19T08:56:51Z |
 | [github.dart](https://github.com/flutter-fix-something/github.dart) | GitHub Client Library for Dart | 0 | 2019-10-18T08:49:27Z |
 | [Test_Travis_CI](https://github.com/flutter-fix-something/Test_Travis_CI) | <no description> | 0 | 2020-01-19T08:44:17Z |
 | [ff_annotation_route](https://github.com/flutter-fix-something/ff_annotation_route) | Provide route generator to create route map quickly by annotations. | 0 | 2020-04-08T00:51:04Z |
@@ -23,12 +24,11 @@ Custom Flutter Candies (packages) for you to build your Flutter app easily. Enjo
 | [dio](https://github.com/flutter-fix-something/dio) | A powerful HTTP package for Dart/Flutter, which supports Global settings, Interceptors, FormData, Aborting and canceling a request, Files uploading and downloading, Requests timeout, Custom adapters, etc. | 0 | 2023-02-24T03:54:08Z |
 | [ActionTestRepo1](https://github.com/flutter-fix-something/ActionTestRepo1) | 用来测试Action的功能 | 0 | 2023-02-24T09:08:05Z |
 | [TestAction](https://github.com/flutter-fix-something/TestAction) | <no description> | 0 | 2023-03-13T12:11:10Z |
-| [flutter_asset_generator](https://github.com/flutter-fix-something/flutter_asset_generator) | Generate an R file for mapping all assets. Supports preview of image. | 0 | 2023-03-26T08:47:44Z |
 | [PubErrorReport](https://github.com/flutter-fix-something/PubErrorReport) | <no description> | 0 | 2023-03-31T12:01:58Z |
 | [run-issue-as-shell](https://github.com/flutter-fix-something/run-issue-as-shell) | <no description> | 0 | 2023-04-04T06:50:46Z |
 
 
 </details>
 
-Created on 2023-04-19T08:33:49+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
+Created on 2023-04-19T09:07:06+00:00 by [action](https://github.com/CaiJingLong/action-org-repo-list.git)
 
